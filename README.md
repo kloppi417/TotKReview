@@ -11,9 +11,8 @@
 7. [The Sky Islands and the Depths](#the-sky-islands-and-the-depths)
 8. [Shrines](#shrines)
 9. [The Temples](#the-temples)
-10. [RPG-ification](#rpg-ification)
-11. [Sage Abilities](#sage-abilities)
-12. [Conclusion](#conclusion)
+10. [Sage Abilities](#sage-abilities)
+11. [Conclusion](#conclusion)
 
 
 ### Introduction
